@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43815996-f2f2-4cd5-846a-073ec6a8b858" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJ1TyP3IjECGcqv8sRnOC24U0b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytessseract" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43815996-f2f2-4cd5-846a-073ec6a8b858" name="Default Changelist" comment="" />
+      <created>1586438893368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586438893368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1052" height="2" key="GridCell.Tab.0.bottom" timestamp="1588491858088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1052" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588491858088" />
+    <state width="1052" height="2" key="GridCell.Tab.0.center" timestamp="1588491858088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1052" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588491858088" />
+    <state width="1052" height="2" key="GridCell.Tab.0.left" timestamp="1588491858088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1052" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588491858088" />
+    <state width="1052" height="2" key="GridCell.Tab.0.right" timestamp="1588491858088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1052" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588491858088" />
+    <state width="1167" height="185" key="GridCell.Tab.1.bottom" timestamp="1588169261668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588169261668" />
+    <state width="1167" height="185" key="GridCell.Tab.1.center" timestamp="1588169261668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588169261668" />
+    <state width="1167" height="185" key="GridCell.Tab.1.left" timestamp="1588169261668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588169261668" />
+    <state width="1167" height="185" key="GridCell.Tab.1.right" timestamp="1588169261668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588169261668" />
+    <state x="177" y="71" key="SettingsEditor" timestamp="1588492839359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="177" y="71" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588492839359" />
+    <state width="682" height="380" key="XDebugger.FullValuePopup" timestamp="1588163602367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="682" height="380" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1588163602366" />
+    <state x="0" y="0" width="1011" height="775" key="dock-window-1" timestamp="1588485947785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1011" height="775" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1588485947785" />
+    <state x="0" y="0" width="1136" height="762" key="dock-window-2" timestamp="1587819574416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1136" height="762" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1587819574416" />
+    <state x="0" y="0" width="1136" height="691" key="dock-window-3" timestamp="1587819746922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1136" height="691" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1587819746922" />
+    <state x="-62" y="76" width="1286" height="482" key="dock-window-4" timestamp="1587823423233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-62" y="76" width="1286" height="482" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1587823423233" />
+    <state x="542" y="145" key="search.everywhere.popup" timestamp="1587823960054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587823960054" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="first_course_contours" language="Python" />
+        <watch expression="average_w, average_h" language="Python" />
+        <watch expression="d['w'], d['h']" language="Python" />
+        <watch expression="middle_course_contours" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
